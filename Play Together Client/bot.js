@@ -16,12 +16,10 @@ const BOT_INTERVAL_TOLERANCE_TIME = 3000;
 var BotScoreStaticArray = Array(); 
 
 BotScoreStaticArray.push(createBotScoreStatic(50, 300, -10, 100));
-BotScoreStaticArray.push(createBotScoreStatic(800, 2300, -10, 100));
+BotScoreStaticArray.push(createBotScoreStatic(800, 1700, -10, 100));
 BotScoreStaticArray.push(createBotScoreStatic(20800, 30300, -10, 100));
 BotScoreStaticArray.push(createBotScoreStatic(1600, 2200, -10, 100));
-BotScoreStaticArray.push(createBotScoreStatic(3000, 9173, -10, 100));
-
-
+BotScoreStaticArray.push(createBotScoreStatic(3000, 12000, -10, 100));
 
 //botType = 1 tournament bot, botType = 2 match bot,    
 ///////////////////////////////////////////////////////////////////////
